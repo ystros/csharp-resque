@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resque", "Resque\Resque.csproj", "{27BE6022-29AF-4958-888A-4CF25B39ABC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{68CDC30C-2870-44B2-8360-591C6FB30499}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27BE6022-29AF-4958-888A-4CF25B39ABC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BE6022-29AF-4958-888A-4CF25B39ABC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BE6022-29AF-4958-888A-4CF25B39ABC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BE6022-29AF-4958-888A-4CF25B39ABC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
